@@ -1,1 +1,1 @@
-# Spring-Security-Bootstrap application with Admin page (admin panel), User page, popper.js and thymeleaf
+# Spring security bootstrap application with admin page (admin panel), user page, popper.js and thymeleaf
